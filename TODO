@@ -1,0 +1,4 @@
+1) Create a new keyword that uses Yahoo as the main search engine
+2) Add a tag for Yahoo searches and execute robot only using Yahoo test
+3) Restrict repo from allowing log.html, output.xml, report.html to never be added at the root level of project
+4) Create a new testcase to query google, but modify project to use RobotframeworkRequest keywords
